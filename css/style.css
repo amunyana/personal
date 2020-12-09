@@ -1,0 +1,180 @@
+/* CLASSES */
+.top-container {
+  background-color: #C7D3D5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 680px;
+  left: 150px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 30px;
+}
+
+.mountain {
+  position: relative;
+  top: 4px;
+  height: 21rem;
+  width: 61rem;
+}
+
+.skillshtml {
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+
+.skillscss {
+  width: 25%;
+  float:right;
+  margin-left: 30px;
+}
+
+.skillsadobe {
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+
+.phone {
+  height: 200px;
+  width: 200px;
+}
+
+.fbfooter {
+  height: 50px;
+  width: 50px;
+  transition-delay: .2s;
+  transition-duration: 2s;
+  transition-property: all;
+  transition-timing-function:ease;
+}
+
+.fbfooter:hover{
+ height: 100px;
+ width: 100px;
+}
+
+.instafooter {
+  height: 50px;
+  width: 50px;
+  transition-delay: .2s;
+  transition-duration: 2s;
+  transition-property: all;
+  transition-timing-function:ease;
+}
+
+.instafooter:hover{
+  height: 100px;
+  width: 100px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.profile {
+  width: 50%;
+  margin: auto;
+}
+
+.im {
+  font-size: 2.5rem
+}
+
+.contact-me {
+  width: 50%;
+  margin: auto;
+}
+
+.contact-email {
+  text-decoration: none;
+  transition-delay: 1s;
+  transition: font-size 2s .1s;
+}
+
+.contact-email:hover {
+  color: #D9F2D5;
+  font-size: 2rem;
+}
+.contact{
+  text-align: center;
+}
+
+.bottom-container{
+  background-color: #C7D3D5;
+  padding-top: 40px;
+  padding-bottom: 10px;
+}
+
+.hello{
+  font-family: 'Great Vibes', cursive;
+  color: #131946;
+  font-size: 3rem;
+}
+
+.header{
+  text-decoration: underline;
+}
+
+.middle-container {
+  margin-top: 100px;
+}
+
+/* ID's*/
+/* CHANGES */
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-size: 20rem;
+  color: #131946;
+  font-weight: lighter;
+  margin: 50px auto 0 auto;
+  font-family: 'Great Vibes', cursive;
+}
+h2{
+  color:#131946;
+  font-weight: lighter;
+}
+h3{
+  color:#131946;
+  font-weight: lighter;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  color: #40514E;
+  font-weight: bold;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  width: 4%;
+  color: #EAF6F6;
+  margin: 100px auto 100px auto;
+}
+
+a {
+  color: #131946;
+  transition-delay: .1s;
+  text-decoration: none;
+}
+
+
+a:visited {
+  color: #FDCECE;
+}
